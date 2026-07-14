@@ -12,6 +12,6 @@ Clean app.js modular structure
 
 Added latency handling for UI states
 
-Live Website URL: https://your-project.vercel.app
+Live Website URL: https://ai-cover-letter-generator-5ul29iw43-munna7.vercel.app
 
 GitHub Repository: https://github.com/munnaA-hub/ai-cover-letter-generator
